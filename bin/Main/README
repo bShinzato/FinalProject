@@ -1,0 +1,15 @@
+README:
+
+Welcome to Click and Slash. Simple game that utilizes a GUI that requires user interaction for character name, selection of avatar and timeline, and clickable button to attack or defend. The GUI will consist..
+
+SOURCES:
+
+revalidate(): 
+	- https://docs.oracle.com/javase/8/docs/api/javax/swing/JComponent.html
+
+ImageIO / getResourceAsStream(): 
+	- https://stackoverflow.com/questions/20891556/understanding-imageio-readgetclass-getresourcepath
+	- https://docs.oracle.com/javase/8/docs/api/javax/imageio/ImageIO.html
+	
+label.setAlignmentX(Component.CENTER_ALIGNMENT):
+	- https://docs.oracle.com/javase/tutorial/uiswing/layout/box.html
